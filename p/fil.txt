@@ -1,1 +1,1 @@
-https://github.com/srtmd/ppp/raw/main/d/acrobat.dll
+https://github.com/srtmd/ppp/raw/refs/heads/main/d/voice.dll
